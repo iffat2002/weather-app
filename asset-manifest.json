@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.8d7cf30a.chunk.css",
+    "main.js": "/weather-app/static/js/main.5a86eca6.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.5a86eca6.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.be244a54.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.be244a54.js.map",
+    "static/js/2.e0cdfcab.chunk.js": "/weather-app/static/js/2.e0cdfcab.chunk.js",
+    "static/js/2.e0cdfcab.chunk.js.map": "/weather-app/static/js/2.e0cdfcab.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.9879f55c9c565486b88431657d6003da.js": "/weather-app/precache-manifest.9879f55c9c565486b88431657d6003da.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.8d7cf30a.chunk.css.map": "/weather-app/static/css/main.8d7cf30a.chunk.css.map",
+    "static/js/2.e0cdfcab.chunk.js.LICENSE.txt": "/weather-app/static/js/2.e0cdfcab.chunk.js.LICENSE.txt",
+    "static/media/Scattered Clouds.png": "/weather-app/static/media/Scattered Clouds.8cec250e.png",
+    "static/media/Smoke.jpg": "/weather-app/static/media/Smoke.c67755ac.jpg",
+    "static/media/city scape.png": "/weather-app/static/media/city scape.52662f24.png",
+    "static/media/ibrahim.jpg": "/weather-app/static/media/ibrahim.41056015.jpg",
+    "static/media/question.png": "/weather-app/static/media/question.95d72d5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be244a54.js",
+    "static/js/2.e0cdfcab.chunk.js",
+    "static/css/main.8d7cf30a.chunk.css",
+    "static/js/main.5a86eca6.chunk.js"
+  ]
+}
